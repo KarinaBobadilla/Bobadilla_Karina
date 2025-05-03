@@ -1,0 +1,56 @@
+{   
+    "datos" : [
+    {
+        "id_nombre": 1,
+        "nombre": "pedro",
+        "apellido" : "guzman",
+        "DNI": 22773450,
+        "telefono": 3755121314,
+        "localidad": "L. N. Alem"
+    },
+    {
+        "id_nombre": 2,
+        "nombre": "maria",
+        "apellido" : "nieves",
+        "DNI": 35928532,
+        "telefono": 3764131517 ,
+        "localidad": "Posadas"
+    },
+    {
+        "id_nombre": 3,
+        "nombre": "roberto carlos",
+        "apellido" : "guerra",
+        "DNI": 40726384 ,
+        "telefono": 3758171819,
+        "localidad": "Apostoles"
+    },
+    {
+        "id_nombre": 4,
+        "nombre": "julieta",
+        "apellido" : "lopez",
+        "DNI": 29384710 ,
+        "telefono": 33751222324 ,
+        "localidad": "Eldorado"
+    },
+    {
+        "id_nombre": 5,
+        "nombre": "ramon",
+        "apellido" : "rodriguez",
+        "DNI": 31749223 ,
+        "telefono": 3765334455 ,
+        "localidad": "Posadas"
+    },
+    {
+        "id_nombre" : 6,
+        "nombre" :"lucia",
+        "apellido": "martinez",
+        "DNI": 4685908,
+        "telefono": 3754689087,
+        "localidad": "San Pedro"
+
+    }
+    
+    
+]
+
+}
